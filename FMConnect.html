@@ -107,8 +107,8 @@
                 <div class="row">
                     <div class="col-lg-10 offset-sm-1 sm-padding">
                         <div class="single-post">
-                            <img src="img/HeroImage_ZakyAPP.jpg" alt="Zaky APP">
-                            <h2>Farmers Market Connect (FM Connect) is an information management system for use on a tablet, that allows market coordinators to easily update information from vendors about their products and relay this information to customers through their information booth volunteers.</h2>
+                            <img src="img/HeroImage_FMConnect.jpg" alt="Man using FM Connect app on iPad">
+                            <h2>Summary</h2>
                             <div class="meta-info">
                                 <span>
                                     <i class="ti-user"></i> Team: Diana Mendoza (UX Researcher, UX Designer); Mona Mishra (UX Researcher, UX Designer); Nathan Davis (UX Researcher)
@@ -119,10 +119,18 @@
                                 </span>
                             </div><!-- Meta Info -->
                             <p>
+                              For our Human-Computer Interaction class, we worked with a client (Sustainable Food Center) to create a system that improved the farmers market experience by allowing the quick entry of vendor and product offering information for relay to customers by the farmers market volunteer staff. The project ended with a medium-fidelity prototype, though I continued it to a high-fidelity prototype based on feedback we received from our final usability tests.
                               <h3>Problem Statement</h3>
-                              There is not an efficient and effective method for
+                              There is not an efficient and effective method to provide customers with accurate information from and about vendors. Why?
+                              <ul>
+                                <li><i class="ti-arrow-right"></i> unpredictable changes in the availability of product offersings (both weekly and seasonally);</li>
+                                <li><i class="ti-arrow-right"></i> it's challenging to serve customers who expect a grocery store shopping experience;</li>
+                                <li><i class="ti-arrow-right"></i> customers don't use Sustainable Food Center's website to find information;</li>
+                                <li><i class="ti-arrow-right"></i> vendors are too busy to send email updates to farmers market staff.</li>
+                              </ul>
                             </p>
                               <h3>Solution</h3>
+                              Create a product information management syterm to relay information about products from vendors (with help of farmers market staff) to customers (through customer service from information booth volunteers)
                             </div>
                         </div>
                     </div><!-- Blog Posts -->
@@ -137,99 +145,123 @@
                     <div class="col-lg-10 offset-sm-1 sm-padding">
                         <div class="single-post">
                           <h1>Process</h1>
-                            <img src="img/ZakyApp_Process.jpg" alt="Process">
-                            <h1>Research Stage</h1>
+                            <img src="img/FMConnect_process.jpg" alt="Process">
 
-                            <h2>Client Kickoff and Literature Review</h2>
-                            <p>The project began with a client kickoff meeting with Yamile Jackson, who gave our class a presentation on the importance of kangaroo care (a.k.a. skin-to-skin contact), her company's product offerings, and her newest endeavor - the creation of a medical-grade sensor that will be attached to The Zaky ZAK and will monitor the baby's biometrics. She then provided us with information on the accompanying app that she wanted our class to design, as well as a list of features, brand guidelines, and tone that we were to include in the app.
-                            </p>
-                            <p><img src="img/ZakyApp_ClientKickoff.jpg" alt="Client Kickoff"></p>
+                          <h1>Research Stage</h1>
 
-                            <h2>Competitive Evaluation</h2>
-                            <p>I then conducted a competitive evaluation of similar products on the market. Yamile Jackson had provided us with an idea of what she felt could be her product's value proposition: an in-app community of users, the ability to accurately track biometric data through manual entry and a medical-grade sensor on the kangaroo care garment, and in-app communication with caregivers and medical care providers.</p>
-                            <p>Based on my evaluation, I recommended that for an early version of the product, attention be paid to the following features:
-                              <ul>
-                                <li><i class="ti-arrow-right"></i> the ability to share information with doctors' offices and other caregivers;</li>
-                                <li><i class="ti-arrow-right"></i> tracking medications and symptoms (which had not been a requested feature);</li>
-                                <li><i class="ti-arrow-right"></i> in-app health records.</li>
-                              </ul>
-                            </p>
-                            <p><img src="img/ZakyApp_CompEval.jpg" alt="Competitive Evaluation"></p>
+                            <h2>Contextual Inquiry and Analysis</h2>
+                              <p>One of our team members had previously worked at Sustainable Food Center and had a good idea of what the pain points were that the client would want us to address in our design. Regardless, we still conducted several types of research for this project. We started with a site visit at the organization's headquarters, where we interviewed two of their farmers market coordinators and collected work artifacts such as online forms they send to farmers, email newsletters, and a diagram of the market. In order to collect information about the farmers market customers, we set up a dot survey station at market and encouraged people to participate; customers who seemed open to further discussion were invited for a short 5-minute interview on location.
+                              </p>
+                              <p>
+                                We then created an affinity diagram to organize our notes from the survey, stakeholder interviews, and our conversations with customers and vendors.
+                              </p>
+                              <p><img src="img/FMConnect_AffinityDiagram.png" alt="Digital affinity diagram"></p>
+
+                            <h3>Key Insights from Research</h3>
+                              <p>
+                                <ul>
+                                  <li><i class="ti-arrow-right"></i> customers prefer asking for information at market rather than looking for it on the website</li>
+                                  <li><i class="ti-arrow-right"></i> for most vendors, face-to-face communication is their preferred mode of communication; and,</li>
+                                  <li><i class="ti-arrow-right"></i> volunteers are the main providers of customer service yet the role has a high turnover.</li>
+                                </ul>
+                              </p>
+                              <p>
+                              As a result, we drafted our question that would guide our MVP as: <b>"how do we create a technological solution that supports face-to-face customer service?"</b>
+                              </p>
+                            <!--<p><img src="img/FMConnect_KeyInsights.jpg" alt="Photo of woman placing sticker on dot survey, and list of key insights on the right"></p>-->
+
+                            <h3>Return to the Problem Space</h3>
+                              <p>
+                                The main takeaway from our research was that the data did not support our original idea; we had entered the process with a design bias. We had begun our project by focusing on the solution space versus starting out in the problem space. In order to refocus our project on the underserved needs and create a user-centered design, we shifted our focus back to the problem space and pivoted to a new solution.
+                              </p>
+                              <p>
+                                We focused on the fact that the farmers market coordinators relied heavily on volunteer staff to provide customer service at the farmers market information booths. Our solution would allow easy entry of information from the SFC staff that would then be relayed to the volunteers so they could provide accurate information to customers, regardless of their tenure.
+                              </p>
+
+                            <h2>Requirements and Modeling</h2>
+                              <p>
+                                We then created a diagram of the workflow model (see model below) to demonstrate the critical role that the system would play in empowering volunteers and making the farmers market coordinator's job easier. To correct our initial design bias, the appearance and design of the system was left unspecified and instead, we focused on the tasks that needed to be achieved.
+                              </p>
+                              <p><img src="img/FMConnect_WorkflowDiagram.png" alt="Workflow model showing relationship between coordinators, vendors, volunteers, and customers"></p>
+                              <p>
+                                One of our initial models (see image below) of the new system focused on three main tasks:
+                                <ul>
+                                  <li><i class="ti-arrow-right"></i> the onboarding of vendors by the farmers market coordinators;</li>
+                                  <li><i class="ti-arrow-right"></i> the exchange of information with vendors and the input of that information into the system by the coordinators; and,</li>
+                                  <li><i class="ti-arrow-right"></i> the relay of product offering information to customers (mostly at market).</li>
+                                </ul>
+                              </p>
+                              <p><img src="img/FMConnect_TaskInventory.png" alt="A hierarchical task inventory model of FM Connect"></p>
+
+                            <h2>Ideation</h2>
+                              <h3>Persona Creation</h3>
+                              <p>he development of our persona was critical in the design of our system. Though the direct users of our system would be information booth volunteers and staff at the Sustainable Food Center, all of the tasks that would be undertaken within FM Connect were for the purpose of serving the end user - the farmers market customer. </p>
+                              <p>This realization helped us tailor the project scope as we approached the prototyping stage.</p>
+                              <p><img src="img/FMConnect_Persona.jpg" alt="Photograph of our persona, Rachel Simmons"></p>
+
+                              <h3>Storyboards</h3>
+                              <p>
+                                To illustrate how the new system would be used within the work environment of the Sustainable Food Center's office and farmers market, we created two storyboards, which I drew for our team.
+                              </p>
+                              <p>
+                                The final prototypes are based on scenario two, since it was the task that most directly affected the customer service experience.
+                              </p>
+                              <p><img src="img/FMConnect_Scenario1.jpg" alt="Storyboard showing scenario 1"></p>
+                              <p><img src="img/FMConnect_Scenario2.jpg" alt="Storyboard showing scenario 2"></p>
+
+                              <h3>Interaction Flow for Prototype</h3>
+                              <p>
+                                Finally, we mapped out the tasks that our initial prototype would support (as illustrated below).  In creating our medium fidelity prototype, we kept our end user of the customer in mind so that we would only flesh out the components that would most directly impact the customer service experience at market (as shown in pink below).
+                              </p>
+                              <p><img src="img/FMConnect_UserTaskMap.png" alt="Diagram showing the various user tasks in the system"></p>
+
+                          <h1>Design and Evaluation Stage</h1>
+
+                            <h2>Low-fidelity mockup and medium-fidelity prototype</h2>
+                              <p>
+                                Our team created two prototypes: a low-fidelity mockup on a whiteboard that allowed for on-the-fly edits and honest communication amongst our team members, since we were not wedded to any design elements; and a medium-fidelity mockup created on Sketch and InVision.
+                              </p>
+                              <p>
+                                We handed off the medium-fidelity prototype to another team for a heuristic evaluation. I used this analysis to guide my final iteration for the high-fidelity prototype. Since the high-fidelity prototype was a personal project and I no longer had to compromise on design, I incorporated additional changes from my own evaluation of the application.
+                              </p>
+                              <h3>Low-fidelity mockup</h3>
+                              <p>
+                                Our initial mockup presented some issues. The header was too cluttered, housing both the main navigation and the user's profile information. This was later moved to a strip below the main header.
+                              </p>
+                              <p><img src="img/FMConnect_LoFi.jpg" alt="4 low-fidelity screen mockups"></p>
+                              <h3>Medium-fidelity mockup</h3>
+                              <p>
+                                The medium-fidelity mockup that our group ended the class with also presented some issues. These included a scroll bar, which was unnecessary for a touch interface. We also needed an indicator of when the user was in administrator mode or in volunteer mode. The deisgn of the vendor profile page was also too segmented and busy; I later changed this to a two-column format to facilitate the scanning of information.
+                              </p>
+                              <p><img src="img/FMConnect_MedFi.jpg" alt="4 medium-fidelity screen mockups"></p>
+                              <h3>High-fidelity prototype screens</h3>
+                              <p>
+                                The final prototype that I created after the course had ended fixed some remaining issues. I cleaned up the product offering page, since many of the icons we had used previously were indicators for an "editing" functionality and our testing proved that was too confusing. I also moved the filters to the left to mimic most retail sites, such as Amazon.com.
+                              </p>
+                              <p><img src="img/FMConnect_HiFi.jpg" alt="4 high-fidelity screen mockups"></p>
+
+                              <h2>Personal Project Continuation</h2>
+                                <p>
+                                  The wireframe of the current high-fidelity prototype that I created as a personal project is an MVP that explores the function of viewing the vendor list, selecting a vendor, viewing the vendor profile, and viewing their product offerings. The visual design was based on the Sustainable Food Center's aesthetic, which is earthy, textured, and down-to-earth. My wireframes of the prototype are shown below, with annotations for interactions or improvements.
+                                </p>
+                                <p><a href="https://invis.io/FJFV3GOVS24" target="_blank">Click here to view the InVision prototype.</a></p>
+                                <p><img src="img/FMConnect_SiteMap.png" alt="Site map connecting the screens of the prototype"></p>
+
+                          <h1>Lessons Learned</h1>
+                                  <p>
+                                    <ul>
+                                      <li><i class="ti-arrow-right"></i> There was a gap between the stakeholders' needs and our understanding of the problem; we went into the project with a heavy design bias.</li>
+                                      <li><i class="ti-arrow-right"></i> The dot survey results did not support our initial idea for the product, but it served as an icebreaker to interview custoemrs and gain deeper insights.</li>
+                                      <li><i class="ti-arrow-right"></i> We had assumed custmoers wanted information through the SFC website. We shifted to a true user-centered design proces in order to pivot to a new solution.</li>
+                                      <li><i class="ti-arrow-right"></i> Personas and storyboards are useful to visualize the system and identify potential problems before the prototype process even begins. It also helped us focus on our end user - the customer.</li>
+                                      <li><i class="ti-arrow-right"></i> For such a complex system, we had to prioritize requirements for the prototype. This was before I had heard of the lean product development process but I adopted this method in creating a task-based MVP for the high-fidelity prototype.</li>
+                                    </ul>
+                                  </p>
                         </div>
                     </div><!-- Blog Posts -->
                 </div>
             </div>
         </section><!-- /Blog Section -->
-
-        <section class="service-section bg-grey padding">
-            <div class="container">
-              <h2>User Scenarios</h2>
-              <p>Our class as a whole had a solid understanding of our target users for the product - parents who had recently had a baby, as well as any secondary caregivers that might help. For this reason, we did not feel the need to create personas. Instead, we split into groups to conduct <b>"How Might We?"</b> exercises that would inform our user scenarios, which we would use for our prototype and test script.</p>
-                <div class="row service-wrap">
-                    <div class="col-md-3 col-sm-6 xs-padding">
-                        <div class="service-content text-center">
-                            <img src="img/ZakyApp_Scenario-1.jpg" alt="Scenario 1">
-                            <h3>Scenario 1</h3>
-                            <p>Caregiver opens app and creates account, then logs diaper change.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6 xs-padding">
-                        <div class="service-content text-center">
-                            <img src="img/ZakyApp_Scenario-2.jpg" alt="Scenario 2">
-                            <h3>Scenario 2</h3>
-                            <p>Caregiver breastfeeds baby while in kangaroo care and logs feeding in app.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6 xs-padding">
-                        <div class="service-content text-center">
-                            <img src="img/ZakyApp_Scenario-3.jpg" alt="Scenario 3">
-                            <h3>Scenario 3</h3>
-                            <p>Caregiver views duration of kangaroo care session and continues until they reach 1-hour mark.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6 xs-padding">
-                        <div class="service-content text-center">
-                            <img src="img/ZakyApp_Scenario-4.jpg" alt="Scenario 4">
-                            <h3>Scenario 4</h3>
-                            <p>Caregiver receives alert about baby's high temperature, so they contact doctor about it.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section><!-- /service-section -->
-
-        <!--Process Section - Client Kickoff to Comp Eval-->
-                <section class="blog-section bg-white padding">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-10 offset-sm-1 sm-padding">
-                                <div class="single-post">
-                                    <h1>Testing and Prototypes</h1>
-                                    <h2>User Testing</h2>
-                                    <p>To test my ideas, I used Facebook to recruit users who had had a child within the last two years. According to user research expert Jakob Nielsen, 85% of a system's problems can be discovered after testing with five users; the return on investment after five users is minimal. Therefore, I recruited five users (though one had a last-minute cancellation).</p>
-                                    <p>The prototype used in testing was a low-fidelity mockup of the app, to encourage participants to provide honest feedback despite their knowing that I was the designer behind the interface.</p>
-                                    <h2>Low-Fidelity Wireframes</h2>
-                                    <p><img src="img/ZakyApp_Lofi.jpg" alt="Low-fidelity mockups"></p>
-
-                                    <h2>Key Findings from User Testing</h2>
-                                    <p>My main takeaways from the four user test sessions were:</p>
-                                    <ul>
-                                      <li><i class="ti-arrow-right"></i> all users wanted the app to indicate what "normal" is, especially those who were new parents;</li>
-                                      <li><i class="ti-arrow-right"></i> the app should be highly customizable - some parents wanted more push notifications, and others (especially those who are more experienced parents) felt that too many alerts were alarmist; and,</li>
-                                      <li><i class="ti-arrow-right"></i> most users were skeptical about the community aspect of the app, and felt more comfortable relying on resources like WebMD rather than other users for advice about their baby's health.</li>
-                                    </ul>
-                                    <p><img src="img/ZakyApp_TestFindings.jpg" alt="User test findings"></p>
-
-                                    <h2>Final Design</h2>
-                                    <p>My final design of the app takes the findings from the user tests into consideration and places no emphasis on the community aspect that had been requested. Instead, I focused on the customization aspect, creating a dashboard of tiles similar to FitBit's mobile app that the user can move around based on what they find to be most important. There is also a gamification aspect to the app (again, similar to FitBit) in the form of a confetti celebration to encourage users to complete kangaroo sessions of a minimum duration of one-hour (as seen in the GIF below), which is the minimum amount of team that skin-to-skin contact must be provided to a baby for it to be beneficial. Lastly, I conducted a content strategy audit and tailored my messaging to be more information and less vague, to keep the guesswork out of the messaging and allow parents to fully understand the data about their child.</p>
-                                    <p><a href="https://invis.io/KEN98SO73HG" target="_blank">Click here to view the InVision prototype.</a></p>
-                                    <p><img src="img/ZakyApp_Hifi.jpg" alt="High-fidelity mockups"></p>
-                                    <p><img src="img/ZakyApp_Demo.jpg" alt="Woman holding phone"></p>
-                                </div>
-                            </div><!-- Blog Posts -->
-                        </div>
-                    </div>
-                </section><!-- /Blog Section -->
 
         <section class="footer-section padding">
             <div class="container">
