@@ -63,11 +63,11 @@
                                 <!--<li><a href="services.html">Services</a></li>-->
                                 <li><a href="works.html">Work</a>
                                   <ul>
-                                    <li><a href="iCare.html">iCare</a></li>
-                                    <li><a href="ZakyAPP.html">Zaky APP</a></li>
-                                    <li><a href="FMConnect.html">Farmers Market Connect</a></li>
-                                    <li><a href="#">Canine Addison's Tracker</a></li>
-                                    <li><a href="#">AstroCon Poster</a></li>
+                                     <li><a href="iCare.html">iCare</a></li>
+                                     <li><a href="ZakyAPP.html">Zaky APP</a></li>
+                                     <li><a href="FMConnect.html">Farmers Market Connect</a></li>
+                                     <li><a href="#">Canine Addison's Tracker</a></li>
+                                     <li><a href="#">AstroCon Poster</a></li>
                                   </ul>
                                 </li>
                                 <!--<li><a href="blog.html">Blog</a>
@@ -95,57 +95,44 @@
         <section class="page-header bd-bottom padding">
             <div class="container">
                 <div class="page-content text-center">
-                    <h1>Contact Me</h1>
-                    <!--<span>Contact Me</span>-->
+                    <h1>iCare</h1>
+                    <h5>A provider-facing mobile solution that improves care coordination for HIV and substance use treatment</h5>
+                    <span>Client: Dell Medical School Department of Psychiatry</span>
                 </div>
             </div>
         </section><!-- /page-header -->
 
-        <section class="contact-section padding">
-            <div id="google_map"></div><!-- /#google_map -->
-            <div class="container">
-                <div class="row contact-wrap">
-                    <div class="col-md-6 xs-padding">
-                        <div class="contact-info">
-                            <h2>Get in touch</h2>
-                            <p>I am interested in work opportunities (full-time, part-time, contractor). If you have something that you think I would be a good fit for, please reach out to me!</p>
-                            <ul>
-                                <li><i class="ti-location-pin"></i> Austin, TX 78757</li>
-                                <li><i class="ti-mobile"></i> (915) 346-6808</li>
-                                <li><i class="ti-email"></i> dgmendoza17@gmail.com</li>
-                            </ul>
+        <section class="blog-section bg-grey padding">
+              <div class="container">
+                <div class="row">
+                    <div class="col-lg-10 offset-sm-1 sm-padding">
+                        <div class="single-post">
+                            <!--<img src="img/HeroImage_FMConnect.jpg" alt="Man using FM Connect app on iPad">-->
+                            <h2>Summary</h2>
+                            <div class="meta-info">
+                                <span>
+                                    <i class="ti-user"></i> Team: </br>Diana Mendoza (UX Designer); </br>Erin Finley (UX Designer); </br>Sara Merrifield (UX Researcher); </br>Eric Nordquist (Clinical Associate Professor and UX Supervisor); </br>Kasey Claborn (Assistant Professor and Project Lead, Department of Psychiatry); </br>Avani Jhaveri (Clinical and Behavioral Research Associate, Department of Psychiatry)
+                                </span>
+                              </br>
+                              </br>
+                                <span>
+                                    <i class="ti-ruler-pencil"></i> Tools Used: Sketch App, InVision, LucidChart
+                              </br>
+                                <span>
+                                    <i class="ti-time"></i> Date: August 2018 - current
+                                </span>
+                            </div><!-- Meta Info -->
+                            <p>
+                              As part of a UX team in the Healthcare Experience Lab at the University of Texas at Austin's School of Information, I was assigned to work on a healthcare system for clinicians to better provide care to their patients, communicate with other clinics and providers about the patients' treatment plans, and conduct referrals to other clinics.
+                              <h3>Project still undergoing - more information to come soon!</h3>
+                            </p>
+                            </div>
                         </div>
-                    </div>
-                    <!--<div class="col-md-6 xs-padding">
-                        <div class="contact-form">
-                            <h2>Drop me a line</h2>
-                            <p>Orrrrrr... just send me a normal email using my email address to the left.</p>
-                            <form action="contact.php" method="post" id="ajax_form" class="form-horizontal">
-                                <div class="form-group colum-row row">
-                                    <div class="col-sm-6">
-                                        <input type="text" id="name" name="name" class="form-control" placeholder="Name" required>
-                                    </div>
-                                    <div class="col-sm-6">
-                                        <input type="email" id="email" name="email" class="form-control" placeholder="Email" required>
-                                    </div>
-                                </div>
-                                <div class="form-group row">
-                                    <div class="col-md-12">
-                                        <textarea id="message" name="message" cols="30" rows="5" class="form-control message" placeholder="Message" required></textarea>
-                                    </div>
-                                </div>
-                                <div class="form-group row">
-                                    <div class="col-md-12">
-                                        <button id="submit" class="default-btn" type="submit">Send Message</button>
-                                    </div>
-                                </div>
-                                <div id="form-messages" class="alert" role="alert"></div>
-                            </form>
-                        </div>
-                    </div>-->
+                    </div><!-- Blog Posts -->
                 </div>
             </div>
-        </section><!-- /Contact Section -->
+        </section><!-- /Blog Section -->
+
 
         <section class="footer-section padding">
             <div class="container">
@@ -204,48 +191,8 @@
         <script src="js/vendor/wow.min.js"></script>
         <!-- Contact JS -->
         <script src="js/contact.js"></script>
-        <!-- Google Map JS -->
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGm_weV-pxqGWuW567g78KhUd7n0p97RY"></script>
         <!-- Main JS -->
         <script src="js/main.js"></script>
-
-        <script>
-
-            (function($){ "use strict";
-
-            /*=========================================================================
-                Google Map Settings
-            =========================================================================*/
-
-                google.maps.event.addDomListener(window, 'load', init);
-
-                function init() {
-
-                    var mapOptions = {
-                        zoom: 8,
-                        center: new google.maps.LatLng(30.341934, -97.726086),
-                        scrollwheel: false,
-                        navigationControl: false,
-                        mapTypeControl: false,
-                        scaleControl: false,
-                        draggable: false,
-                        styles: [{"featureType":"administrative","elementType":"all","stylers":[{"saturation":"-100"}]},{"featureType":"administrative.province","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"landscape","elementType":"all","stylers":[{"saturation":-100},{"lightness":65},{"visibility":"on"}]},{"featureType":"poi","elementType":"all","stylers":[{"saturation":-100},{"lightness":"50"},{"visibility":"simplified"}]},{"featureType":"road","elementType":"all","stylers":[{"saturation":"-100"}]},{"featureType":"road.highway","elementType":"all","stylers":[{"visibility":"simplified"}]},{"featureType":"road.arterial","elementType":"all","stylers":[{"lightness":"30"}]},{"featureType":"road.local","elementType":"all","stylers":[{"lightness":"40"}]},{"featureType":"transit","elementType":"all","stylers":[{"saturation":-100},{"visibility":"simplified"}]},{"featureType":"water","elementType":"geometry","stylers":[{"hue":"#ffff00"},{"lightness":-25},{"saturation":-97}]},{"featureType":"water","elementType":"labels","stylers":[{"lightness":-25},{"saturation":-100}]}]
-                    };
-
-                    var mapElement = document.getElementById('google_map');
-
-                    var map = new google.maps.Map(mapElement, mapOptions);
-
-                    var marker = new google.maps.Marker({
-                        position: new google.maps.LatLng(30.341934, -97.726086),
-                        map: map,
-                        title: 'Location!'
-                    });
-                }
-
-            })(jQuery);
-
-            </script>
 
     </body>
 </html>
