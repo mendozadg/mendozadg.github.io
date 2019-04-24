@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="877px" height="1141px" viewBox="0 0 877 1141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>iCare_Typography</title>
+    <desc>Created with Sketch.</desc>
+    <g id="iCare_Typography" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Body/Bold/TopLeftAlign" transform="translate(48.000000, 1021.000000)" fill="#212121">
+            <text id="Body/Bold/CenterLeft" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal">
+                <tspan x="0" y="15">Body/Bold/CenterLeftAlign</tspan>
+            </text>
+            <text id="The-quick-brown-fox-Copy-7" font-family="Roboto-Medium, Roboto" font-size="13" font-weight="400">
+                <tspan x="252" y="22">The quick brown fox jumps over the lazy dog.</tspan>
+            </text>
+        </g>
+        <g id="Body/Bold/TopLeftAlign-Copy" transform="translate(48.000000, 1067.000000)" fill="#212121">
+            <text id="Body/Bold/CenterCenter" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal">
+                <tspan x="0" y="15">Body/Bold/CenterCenterAlign</tspan>
+            </text>
+            <text id="The-quick-brown-fox-Copy-7" font-family="Roboto-Medium, Roboto" font-size="13" font-weight="400">
+                <tspan x="252" y="22">The quick brown fox jumps over the lazy dog.</tspan>
+            </text>
+        </g>
+        <g id="Body/White/CenterAlign" transform="translate(48.000000, 975.000000)">
+            <rect id="Rectangle-Copy-2" fill="#D8D8D8" x="248" y="2" width="266" height="26"></rect>
+            <text id="Body/White/CenterCen" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#212121">
+                <tspan x="0" y="15">Body/White/CenterCenterAlign</tspan>
+            </text>
+            <text id="The-quick-brown-fox-Copy-6" font-family="Roboto-Regular, Roboto" font-size="13" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                <tspan x="252" y="18">The quick brown fox jumps over the lazy dog.</tspan>
+            </text>
+        </g>
+        <g id="Body/Gray/CenterAlign" transform="translate(48.000000, 929.000000)" font-family="Roboto-Regular, Roboto" font-weight="normal">
+            <text id="Body/Gray/CenterCent" font-size="14" fill="#212121">
+                <tspan x="0" y="15">Body/Gray/CenterCenterAlign</tspan>
+            </text>
+            <text id="The-quick-brown-fox-Copy-6" font-size="13" line-spacing="22" fill="#757575">
+                <tspan x="252" y="18">The quick brown fox jumps over the lazy dog.</tspan>
+            </text>
+        </g>
+        <g id="Body/Black/TopLeftAlign" transform="translate(48.000000, 883.000000)" fill="#212121" font-family="Roboto-Regular, Roboto" font-weight="normal">
+            <text id="Body/Black/TopLeftAl" font-size="14">
+                <tspan x="0" y="15">Body/Black/TopLeftAlign</tspan>
+            </text>
+            <text id="The-quick-brown-fox-Copy-15" font-size="13" line-spacing="22">
+                <tspan x="252" y="18">The quick brown fox jumps over the lazy dog.</tspan>
+            </text>
+        </g>
+        <g id="Body/Black/CenterAlign" transform="translate(48.000000, 791.000000)" fill="#212121" font-family="Roboto-Regular, Roboto" font-weight="normal">
+            <text id="Body/Black/CenterCen" font-size="14">
+                <tspan x="0" y="15">Body/Black/CenterCenterAlign</tspan>
+            </text>
+            <text id="The-quick-brown-fox-Copy-6" font-size="13" line-spacing="22">
+                <tspan x="252" y="18">The quick brown fox jumps over the lazy dog.</tspan>
+            </text>
+        </g>
+        <g id="Body/Black/CenterLeftAlign" transform="translate(48.000000, 837.000000)" fill="#212121" font-family="Roboto-Regular, Roboto" font-weight="normal">
+            <text id="Body/Black/CenterLef" font-size="14">
+                <tspan x="0" y="15">Body/Black/CenterLeftAlign</tspan>
+            </text>
+            <text id="The-quick-brown-fox-Copy-6" font-size="13" line-spacing="22">
+                <tspan x="252" y="18">The quick brown fox jumps over the lazy dog.</tspan>
+            </text>
+        </g>
+        <g id="Link/Caps" transform="translate(48.000000, 745.000000)" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal">
+            <text fill="#212121">
+                <tspan x="0" y="15">Link/Caps</tspan>
+            </text>
+            <text id="The-quick-brown-fox-Copy-12" fill="#1E88E5">
+                <tspan x="252" y="21">THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.</tspan>
+            </text>
+        </g>
+        <g id="Search" transform="translate(48.000000, 699.000000)" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal">
+            <text fill="#212121">
+                <tspan x="0" y="15">Search</tspan>
+            </text>
+            <text id="The-quick-brown-fox-Copy-11" fill="#757575">
+                <tspan x="252" y="21">The quick brown fox jumps over the lazy dog.</tspan>
+            </text>
+        </g>
+        <g id="Dropdown" transform="translate(48.000000, 653.000000)" fill="#212121" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal">
+            <text>
+                <tspan x="0" y="15">Dropdown</tspan>
+            </text>
+            <text id="The-quick-brown-fox-Copy-10">
+                <tspan x="252" y="21">The quick brown fox jumps over the lazy dog.</tspan>
+            </text>
+        </g>
+        <g id="Filter/Deselected" transform="translate(48.000000, 561.000000)" fill="#212121" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal">
+            <text>
+                <tspan x="0" y="15">Filter/Deselected</tspan>
+            </text>
+            <text id="The-quick-brown-fox-Copy-10">
+                <tspan x="252" y="21">The quick brown fox jumps over the lazy dog.</tspan>
+            </text>
+        </g>
+        <g id="Filter/Selected" transform="translate(48.000000, 607.000000)">
+            <text font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#212121">
+                <tspan x="0" y="15">Filter/Selected</tspan>
+            </text>
+            <rect id="Rectangle-Copy-2" fill="#D8D8D8" x="248" y="2" width="286" height="26"></rect>
+            <text id="The-quick-brown-fox-Copy-10" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FFFFFF">
+                <tspan x="252" y="21">The quick brown fox jumps over the lazy dog.</tspan>
+            </text>
+        </g>
+        <g id="Button/Blue/Disabled" transform="translate(48.000000, 515.000000)" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal">
+            <text fill="#212121">
+                <tspan x="0" y="15">Button/Blue/Disabled</tspan>
+            </text>
+            <text id="The-quick-brown-fox-Copy-14" opacity="0.5" fill="#1E88E5">
+                <tspan x="252" y="21">THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.</tspan>
+            </text>
+        </g>
+        <g id="Button/Blue" transform="translate(48.000000, 469.000000)" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal">
+            <text fill="#212121">
+                <tspan x="0" y="15">Button/Blue</tspan>
+            </text>
+            <text id="The-quick-brown-fox-Copy-13" fill="#1E88E5">
+                <tspan x="252" y="21">THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.</tspan>
+            </text>
+        </g>
+        <g id="Button/White" transform="translate(48.000000, 423.000000)">
+            <text font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#212121">
+                <tspan x="0" y="15">Button/White</tspan>
+            </text>
+            <rect id="Rectangle-Copy-2" fill="#D8D8D8" x="248" y="2" width="351" height="26"></rect>
+            <text id="The-quick-brown-fox-Copy-9" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FFFFFF">
+                <tspan x="252" y="21">THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.</tspan>
+            </text>
+        </g>
+        <g id="Navigation/Secondary/Selected" transform="translate(48.000000, 377.000000)" fill="#212121">
+            <text id="Navigation/Secondary" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal">
+                <tspan x="0" y="15">Navigation/Secondary/Selected</tspan>
+            </text>
+            <text id="The-quick-brown-fox-Copy-5" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400">
+                <tspan x="252" y="22">THE QUICK BROWN FOX JUMPS OVER THE LAZY </tspan>
+                <tspan x="252" y="43">DOG.</tspan>
+            </text>
+        </g>
+        <g id="Navigation/Secondary" transform="translate(48.000000, 331.000000)" fill="#212121" font-family="Roboto-Regular, Roboto" font-weight="normal">
+            <text font-size="14">
+                <tspan x="0" y="15">Navigation/Secondary</tspan>
+            </text>
+            <text id="The-quick-brown-fox-Copy-4" font-size="16">
+                <tspan x="252" y="22">THE QUICK BROWN FOX JUMPS OVER THE LAZY </tspan>
+                <tspan x="252" y="43">DOG.</tspan>
+            </text>
+        </g>
+        <g id="Navigation/Global/Selected" transform="translate(48.000000, 285.000000)">
+            <text id="Navigation/Global/Se" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#212121">
+                <tspan x="0" y="15">Navigation/Global/Selected</tspan>
+            </text>
+            <rect id="Rectangle-Copy" fill="#D8D8D8" x="248" y="2" width="402" height="27"></rect>
+            <text id="The-quick-brown-fox-Copy-3" font-family="Roboto-Medium, Roboto" font-size="16" font-weight="400" fill="#FFFFFF">
+                <tspan x="252" y="22">THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.</tspan>
+            </text>
+        </g>
+        <g id="Navigation/Global" transform="translate(48.000000, 239.000000)">
+            <text font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#212121">
+                <tspan x="0" y="15">Navigation/Global</tspan>
+            </text>
+            <rect id="Rectangle" fill="#D8D8D8" x="248" y="2" width="402" height="27"></rect>
+            <text id="The-quick-brown-fox-Copy-2" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#FFFFFF">
+                <tspan x="252" y="22">THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.</tspan>
+            </text>
+        </g>
+        <g id="Heading/Small" transform="translate(48.000000, 193.000000)" fill="#212121">
+            <text font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal">
+                <tspan x="0" y="15">Heading/Small</tspan>
+            </text>
+            <text id="The-quick-brown-fox-Copy-8" font-family="Roboto-Medium, Roboto" font-size="13" font-weight="400">
+                <tspan x="252" y="21">THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.</tspan>
+            </text>
+        </g>
+        <g id="Heading/Medium" transform="translate(48.000000, 147.000000)" fill="#212121" font-family="Roboto-Regular, Roboto" font-weight="normal">
+            <text font-size="14">
+                <tspan x="0" y="15">Heading/Medium</tspan>
+            </text>
+            <text id="The-quick-brown-fox" font-size="16">
+                <tspan x="252" y="23">The quick brown fox jumps over the lazy dog.</tspan>
+            </text>
+        </g>
+        <g id="Heading/Large" transform="translate(48.000000, 101.000000)" fill="#212121" font-family="Roboto-Regular, Roboto" font-weight="normal">
+            <text font-size="14">
+                <tspan x="0" y="15">Heading/Large</tspan>
+            </text>
+            <text id="The-quick-brown-fox" font-size="26">
+                <tspan x="252" y="27">The quick brown fox jumps over the lazy dog.</tspan>
+            </text>
+        </g>
+        <text id="Typography" font-family="Roboto-Regular, Roboto" font-size="24" font-weight="normal" fill="#212121">
+            <tspan x="48" y="50">Typography</tspan>
+        </text>
+    </g>
+</svg>

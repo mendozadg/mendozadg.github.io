@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="793px" height="352px" viewBox="0 0 793 352" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>iCare_ColorScheme</title>
+    <desc>Created with Sketch.</desc>
+    <g id="iCare_ColorScheme" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="793" height="352"></rect>
+        <g id="Color-Variations" transform="translate(15.000000, 7.000000)">
+            <g id="Secondary-Copy-3" transform="translate(336.000000, 64.000000)">
+                <rect id="Background" fill="#AB47BC" x="0" y="0" width="81" height="81" rx="4"></rect>
+                <text id="SECONDARY-COLOR" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                    <tspan x="10.125" y="22.4921875">SECONDARY </tspan>
+                    <tspan x="10.125" y="36.4921875">COLOR</tspan>
+                </text>
+                <text id="#AB47BC" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="10.125" y="70.484375">#AB47BC</tspan>
+                </text>
+            </g>
+            <g id="Secondary-Copy-4" transform="translate(336.000000, 160.000000)">
+                <rect id="Background" fill="#8E24AA" x="0" y="0" width="81" height="81" rx="4"></rect>
+                <text id="SECONDARY-COLOR-DARK" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                    <tspan x="10.125" y="22.4921875">SECONDARY </tspan>
+                    <tspan x="10.125" y="36.4921875">COLOR DARK</tspan>
+                </text>
+                <text id="#8E24AA" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="10.125" y="70.484375">#8E24AA</tspan>
+                </text>
+            </g>
+            <g id="Secondary-Copy-5" transform="translate(336.000000, 257.000000)">
+                <rect id="Background" fill="#D5A3DD" x="0" y="0" width="81" height="81" rx="4"></rect>
+                <text id="SECONDARY-COLOR-LIGH" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" line-spacing="14" fill="#212121">
+                    <tspan x="10.125" y="22.4921875">SECONDARY </tspan>
+                    <tspan x="10.125" y="36.4921875">COLOR LIGHT</tspan>
+                </text>
+                <text id="#D5A3DD" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" line-spacing="18" fill="#212121">
+                    <tspan x="10.125" y="70.484375">#D5A3DD</tspan>
+                </text>
+            </g>
+            <g id="Secondary-Copy-8" transform="translate(448.000000, 64.000000)">
+                <rect id="Background" fill="#212121" x="0" y="0" width="81" height="81" rx="4"></rect>
+                <text id="PRIMARY-TEXT-COLOR" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                    <tspan x="10.125" y="22.4921875">PRIMARY </tspan>
+                    <tspan x="10.125" y="36.4921875">TEXT COLOR</tspan>
+                </text>
+                <text id="#212121" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="10.125" y="70.484375">#212121</tspan>
+                </text>
+            </g>
+            <g id="Secondary-Copy-7" transform="translate(448.000000, 160.000000)">
+                <rect id="Background" fill="#757575" x="0" y="0" width="81" height="81" rx="4"></rect>
+                <text id="SECONDARY-TEXT-COLOR" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                    <tspan x="10.125" y="22.4921875">SECONDARY </tspan>
+                    <tspan x="10.125" y="36.4921875">TEXT COLOR</tspan>
+                </text>
+                <text id="#757575" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="10.125" y="70.484375">#757575</tspan>
+                </text>
+            </g>
+            <g id="Secondary-Copy-6" transform="translate(448.000000, 257.000000)">
+                <rect id="Background" fill="#FFFFFF" x="0" y="0" width="81" height="81" rx="4"></rect>
+                <text id="SECONDARY-TEXT-COLOR" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" line-spacing="14" fill="#212121">
+                    <tspan x="10.125" y="22.4921875">SECONDARY </tspan>
+                    <tspan x="10.125" y="36.4921875">TEXT COLOR</tspan>
+                </text>
+                <text id="#FFFFFF" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" line-spacing="18" fill="#212121">
+                    <tspan x="10.125" y="70.484375">#FFFFFF</tspan>
+                </text>
+            </g>
+            <g id="Secondary-Copy-11" transform="translate(560.000000, 64.000000)">
+                <rect id="Background" fill="#BDBDBD" x="0" y="0" width="81" height="81" rx="4"></rect>
+                <text id="SHADOW-AND-DIVIDER-C" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" line-spacing="14" fill="#212121">
+                    <tspan x="10.125" y="22.4921875">SHADOW AND </tspan>
+                    <tspan x="10.125" y="36.4921875">DIVIDER </tspan>
+                    <tspan x="10.125" y="50.4921875">COLOR</tspan>
+                </text>
+                <text id="#BDBDBD" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" line-spacing="18" fill="#212121">
+                    <tspan x="10.125" y="72.484375">#BDBDBD</tspan>
+                </text>
+            </g>
+            <g id="Secondary-Copy-10" transform="translate(560.000000, 160.000000)">
+                <rect id="Background" fill="#F0F0F0" x="0" y="0" width="81" height="81" rx="4"></rect>
+                <text id="CARD-HEADER-BACKGROU" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" line-spacing="14" fill="#212121">
+                    <tspan x="10.125" y="22.4921875">CARD HEADER </tspan>
+                    <tspan x="10.125" y="36.4921875">BACKGROUND</tspan>
+                    <tspan x="10.125" y="50.4921875">COLOR</tspan>
+                </text>
+                <text id="#F0F0F0" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" line-spacing="18" fill="#212121">
+                    <tspan x="10.125" y="70.484375">#F0F0F0</tspan>
+                </text>
+            </g>
+            <g id="Secondary-Copy-9" transform="translate(560.000000, 257.000000)">
+                <rect id="Background" fill="#FAFAFA" x="0" y="0" width="81" height="81" rx="4"></rect>
+                <text id="BACKGROUND-COLOR" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" line-spacing="14" fill="#212121">
+                    <tspan x="10.125" y="22.4921875">BACKGROUND </tspan>
+                    <tspan x="10.125" y="36.4921875">COLOR</tspan>
+                </text>
+                <text id="#FAFAFA" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" line-spacing="18" fill="#212121">
+                    <tspan x="10.125" y="72.484375">#FAFAFA</tspan>
+                </text>
+            </g>
+            <g id="Secondary-Copy-14" transform="translate(672.000000, 64.000000)">
+                <rect id="Background" fill="#B00020" x="0" y="0" width="81" height="81" rx="4"></rect>
+                <text id="ERROR-COLOR" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                    <tspan x="10.125" y="22.4921875">ERROR COLOR</tspan>
+                </text>
+                <text id="#B00020" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="10.125" y="70.484375">#B00020</tspan>
+                </text>
+            </g>
+            <g id="Secondary-Color-2" transform="translate(224.000000, 64.000000)">
+                <rect id="Background" fill="#1E88E5" x="0" y="0" width="81" height="81" rx="4"></rect>
+                <text id="SECONDARY-COLOR" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                    <tspan x="10.125" y="22.4921875">SECONDARY </tspan>
+                    <tspan x="10.125" y="36.4921875">COLOR</tspan>
+                </text>
+                <text id="#1E88E5" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="10.125" y="70.484375">#1E88E5</tspan>
+                </text>
+            </g>
+            <g id="Secondary-Color-2-Copy" transform="translate(224.000000, 160.000000)">
+                <rect id="Background" fill="#1565C0" x="0" y="0" width="81" height="81" rx="4"></rect>
+                <text id="SECONDARY-COLOR-DARK" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                    <tspan x="10.125" y="22.4921875">SECONDARY </tspan>
+                    <tspan x="10.125" y="36.4921875">COLOR DARK</tspan>
+                </text>
+                <text id="#1565C0" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="10.125" y="70.484375">#1565C0</tspan>
+                </text>
+            </g>
+            <g id="Secondary-Color-2-Copy-2" transform="translate(224.000000, 257.000000)">
+                <rect id="Background" fill="#8EC3F2" x="0" y="0" width="81" height="81" rx="4"></rect>
+                <text id="SECONDARY-COLOR-LIGH" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" line-spacing="14" fill="#212121">
+                    <tspan x="10.125" y="22.4921875">SECONDARY </tspan>
+                    <tspan x="10.125" y="36.4921875">COLOR LIGHT</tspan>
+                </text>
+                <text id="#8EC3F2" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" line-spacing="18" fill="#212121">
+                    <tspan x="10.125" y="70.484375">#8EC3F2</tspan>
+                </text>
+            </g>
+            <g id="Secondary-Color-1" transform="translate(112.000000, 64.000000)">
+                <rect id="Background" fill="#009688" x="0" y="0" width="81" height="81" rx="4"></rect>
+                <text id="SECONDARY-COLOR" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                    <tspan x="10.125" y="22.4921875">SECONDARY </tspan>
+                    <tspan x="10.125" y="36.4921875">COLOR</tspan>
+                </text>
+                <text id="#009688" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="10.125" y="70.484375">#009688</tspan>
+                </text>
+            </g>
+            <g id="Secondary-Color-1-Copy" transform="translate(112.000000, 160.000000)">
+                <rect id="Background" fill="#00796B" x="0" y="0" width="81" height="81" rx="4"></rect>
+                <text id="SECONDARY-COLOR-DARK" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                    <tspan x="10.125" y="22.4921875">SECONDARY </tspan>
+                    <tspan x="10.125" y="36.4921875">COLOR DARK</tspan>
+                </text>
+                <text id="#00796B" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="10.125" y="70.484375">#00796B</tspan>
+                </text>
+            </g>
+            <g id="Secondary-Color-1-Copy-2" transform="translate(112.000000, 257.000000)">
+                <rect id="Background" fill="#7FCAC3" x="0" y="0" width="81" height="81" rx="4"></rect>
+                <text id="SECONDARY-COLOR-LIGH" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" line-spacing="14" fill="#212121">
+                    <tspan x="10.125" y="22.4921875">SECONDARY </tspan>
+                    <tspan x="10.125" y="36.4921875">COLOR LIGHT</tspan>
+                </text>
+                <text id="#7FCAC3" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" line-spacing="18" fill="#212121">
+                    <tspan x="10.125" y="70.484375">#7FCAC3</tspan>
+                </text>
+            </g>
+            <g id="Primary-Color" transform="translate(0.000000, 64.000000)">
+                <rect id="Background" fill="#2A3F54" x="0" y="0" width="81" height="81" rx="4"></rect>
+                <text id="PRIMARY-COLOR" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                    <tspan x="10.125" y="22.4921875">PRIMARY </tspan>
+                    <tspan x="10.125" y="36.4921875">COLOR</tspan>
+                </text>
+                <text id="#2A3F54" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="10.125" y="70.484375">#2A3F54</tspan>
+                </text>
+            </g>
+            <g id="Primary-Color-Copy" transform="translate(0.000000, 160.000000)">
+                <rect id="Background" fill="#213142" x="0" y="0" width="81" height="81" rx="4"></rect>
+                <text id="PRIMARY-COLOR-DARK" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                    <tspan x="10.125" y="22.4921875">PRIMARY </tspan>
+                    <tspan x="10.125" y="36.4921875">COLOR DARK</tspan>
+                </text>
+                <text id="#213142" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="10.125" y="70.484375">#213142</tspan>
+                </text>
+            </g>
+            <g id="Primary-Color-Copy-2" transform="translate(0.000000, 257.000000)">
+                <rect id="Background" fill="#38516A" x="0" y="0" width="81" height="81" rx="4"></rect>
+                <text id="PRIMARY-COLOR-LIGHT" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" line-spacing="14" fill="#FFFFFF">
+                    <tspan x="10.125" y="22.4921875">PRIMARY </tspan>
+                    <tspan x="10.125" y="36.4921875">COLOR LIGHT</tspan>
+                </text>
+                <text id="#38516A" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="10.125" y="70.484375">#38516A</tspan>
+                </text>
+            </g>
+            <text id="Primary-Color" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#212121">
+                <tspan x="0" y="45">Primary Color</tspan>
+            </text>
+            <text id="Secondary-Colors" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#212121">
+                <tspan x="112" y="45">Secondary Colors</tspan>
+            </text>
+            <text id="Text-Colors" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#212121">
+                <tspan x="448" y="45">Text Colors</tspan>
+            </text>
+            <text id="Background-Colors" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#212121">
+                <tspan x="560" y="45">Background Colors</tspan>
+            </text>
+            <text id="Error-Color" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#212121">
+                <tspan x="672" y="45">Error Color</tspan>
+            </text>
+            <text id="Color-Scheme" font-family="Roboto-Bold, Roboto" font-size="12" font-weight="bold" fill="#212121">
+                <tspan x="0" y="11">Color Scheme</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
